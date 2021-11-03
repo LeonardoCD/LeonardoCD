@@ -2,7 +2,7 @@
 
 My name is Leonardo Carvalho, I'm from Brazil 🇧🇷 I'm A Front-end Developer, who started organizing the portfolio recently. 🧑🏽‍💻
 
-I am studying Systems Analysis and Development and in the middle of the way I fell in love with interface design. 🤩
+I am studying Systems Analysis and Development and in the middle of the way I fell in love with Flutter. 🤩
 
 #### 🌎 "Se não for simples, não vale a pena" 🧠
 
