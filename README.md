@@ -23,11 +23,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<br><br>
+<br>
 
+## 🤩 &nbsp;Social Links
 
-Reach me out 👇🏽
+<p align="left" style="background:yellow">
 
-[![Instagram Badge](https://img.shields.io/badge/-@leo_felip_carvalho-8129D9?style=flat-square&labelColor=8129D9&logo=instagram&logoColor=white&link=https://www.instagram.com/leo_felip_carvalho/)](https://www.instagram.com/leo_felip_carvalho/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Carvalho-0F6CA6?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/leonardo-f-carvalho/)](https://linkedin.com/in/leonardo-f-carvalho/) 
-[![Dribbble Badge](https://img.shields.io/badge/-leonardofelipe-F272A1?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/leonardofelipe931)](https://dribbble.com/leonardofelipe931)
+<a href="https://linkedin.com/in/leonardo-f-carvalho/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Leonardo Carvalho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/leo_felip_carvalho/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-@leo_felip_carvalho-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+  <a href="https://dribbble.com/leonardocarvalho" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leonardocarvalho-05122A?style=flat&logo=dribbble" alt="dribbble"/>
+</a>
+</p>
