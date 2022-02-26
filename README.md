@@ -1,14 +1,30 @@
-### Hey 👋
+<img align="right" height="590em" src="Profile (1).png"/>
 
-My name is Leonardo Carvalho, I'm from Brazil 🇧🇷 I'm A Front-end Developer, who started organizing the portfolio recently. 🧑🏽‍💻
-
-I am studying Systems Analysis and Development and in the middle of the way I fell in love with Flutter. 🤩
-
-#### 🌎 "Se não for simples, não vale a pena" 🧠
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Carvalho</h1>
 
 - 📍 From RR living in Boa Vista
-- 🧑🏽‍💻 Front-end Developer
+- 🧑🏽‍💻 Junior Front-end Developer
+- 🔭 I’m currently working at [Orange Labs](https://orangelabs.com.br)
 - 🤓 Looking for opportunities to acquire and share knowledge
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+<br><br>
+
 
 Reach me out 👇🏽
 
