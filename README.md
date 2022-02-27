@@ -3,6 +3,7 @@
 
 - 📍 From RR living in Boa Vista
 - 🧑🏽‍💻 Junior Front-end Developer
+- 👨‍🎓 Graduating systems analysis and development
 - 🔭 I’m currently working at [Orange Labs](https://orangelabs.com.br)
 - 🤓 Looking for opportunities to acquire and share knowledge
 
