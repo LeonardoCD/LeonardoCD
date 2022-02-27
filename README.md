@@ -1,5 +1,4 @@
 <img align="right" height="590em" src="Profile (1).png"/>
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Carvalho</h1>
 
 - 📍 From RR living in Boa Vista
@@ -24,6 +23,16 @@
 
 
 <br>
+<!--
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leonardocd&show_icons=true&theme=vision-friendly-dark" alt="leonardocarvalho's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocd&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+<br>
+-->
 
 ## 🤩 &nbsp;Social Links
 
