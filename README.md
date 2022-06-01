@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="Profile (1).png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Carvalho</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Leonardo Carvalho</h1>
 
 - 📍 From RR living in Boa Vista
 - 🧑🏽‍💻 Junior Front-end Developer
