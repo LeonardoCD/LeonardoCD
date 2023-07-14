@@ -7,9 +7,17 @@ Front-end developer
 [![Instagran Badge](https://img.shields.io/badge/-@leo_felip_carvalho-0077E5?style=flat-square&labelColor=0077E5&logo=instagram&logoColor=white&link=https://www.instagram.com/leo_felip_carvalho/)](https://www.instagram.com/leo_felip_carvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-leonardofelipe931@gmail.com-0077E5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardofelipe931@gmail.com)](mailto:leonardofelipe931@gmail.com)
 
-My name is Leonardo Carvalho, I'm majoring in Systems Analysis and Development and I'm looking for new opportunities as a Junior Front-end Developer.
+Meu nome é Leonardo Carvalho, sou graduando em Análise e Desenvolvimento de Sistemas e estou em busca de novas oportunidades como Desenvolvedor Front-end Júnior.
 
-I have experience with developing web applications using JavaScript, React JS and TypeScript, and I am also familiar with several ecosystem technologies such as Jira, GitHub and Figma. I also have some experience with mobile development.
+Tenho experiência no desenvolvimento de aplicações web usando JavaScript, React JS e TypeScript, e também estou familiarizado com diversas tecnologias de ecossistemas como Jira, GitHub e Figma. Eu também tenho alguma experiência com desenvolvimento móvel.
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
 <!--
@@ -20,18 +28,7 @@ I have experience with developing web applications using JavaScript, React JS an
 - 🤓 Looking for opportunities to acquire and share knowledge
 
 <br>
-<!--
-## 🛠 &nbsp;Tech Stack
-<!--
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
