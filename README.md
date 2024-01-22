@@ -9,7 +9,7 @@ Front-end developer
 
 Meu nome é Leonardo Carvalho, sou graduando em Análise e Desenvolvimento de Sistemas e estou em busca de novas oportunidades como Desenvolvedor Front-end Júnior.
 
-Tenho experiência no desenvolvimento de aplicações web usando JavaScript, React JS e TypeScript, e também estou familiarizado com diversas tecnologias de ecossistemas como Jira, GitHub e Figma. Eu também tenho alguma experiência com desenvolvimento móvel.
+Tenho experiência no desenvolvimento de aplicações web usando JavaScript, React JS e TypeScript, e também estou familiarizado com diversas tecnologias de ecossistemas como Jira, GitHub e Figma. Eu também tenho alguma experiência com desenvolvimento mobile.
 
 ## 🛠 &nbsp;Tech Stack
 
