@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="Profile.png"/>
+<!--<img align="right" height="590em" src="Profile.png"/> -->
 
 # Leonardo Carvalho
 Front-end developer
